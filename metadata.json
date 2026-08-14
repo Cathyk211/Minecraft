@@ -1,0 +1,6 @@
+{
+  "name": "Minecraft",
+  "description": "A 3D browser-based Minecraft sandbox game featuring chunk terrain, survival and creative modes, mining, building, crafting, mobs, day/night cycle, sound FX, and save worlds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
